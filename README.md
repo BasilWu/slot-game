@@ -1,5 +1,3 @@
-Check out a new version written in PixiJS (https://github.com/n1md7/mini-slot)
-
 # Javascript slot-game
 
 ## Added several custom features
